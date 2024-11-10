@@ -1,0 +1,40 @@
+/*
+ *Name: [YIchen Wang]
+ *UnityID: [ywang359]
+ *Date: [11/09/2024]
+ *Assignment: [project 4]
+ *Description: [Assignment Description]
+ */
+ 
+body {
+    background-color: #f0f8ff; /* Light blue background */
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+
+.earth-image {
+    border: 2px outset green;
+    width: 200px;
+    height: 250px;
+}
+
+p {
+    font-family: 'Times New Roman', sans-serif;
+}
+
+p b {
+    font-weight: bold;
+}
+
+p i {
+    font-style: italic;
+}
+
+p u {
+    text-decoration: underline;
+}
+
